@@ -21,6 +21,8 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 
 gem 'bower-rails'
+gem 'angular-rails-templates'
+gem 'sprockets', '<= 2.8'
 
 gem 'sass', '3.2.19'
 
