@@ -29,7 +29,7 @@ end
 
 group :development, :test do
   gem 'byebug'
-  gem 'rspec-rails', '~> 2.0'
+  gem 'rspec-rails', '~> 3.1'
   gem 'capybara'
   gem 'database_cleaner'
   gem 'selenium-webdriver'
